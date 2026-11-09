@@ -17,7 +17,7 @@ This project explores student performance data using Python and Pandas. It demon
 - Jupyter Notebook 
 
 ## Project Structure
-The repository contains the analysis code, dataset (where appropriate), and project documentation.
+The repository contains the analysis code, dataset, and project documentation.
 
 ## Key Learning Outcomes
 - Working with tabular data using Pandas.
